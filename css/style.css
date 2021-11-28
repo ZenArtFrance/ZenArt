@@ -1,0 +1,149 @@
+nav.navigation ul li.elementNav{
+    list-style-type: none;
+    display: inline-block;
+}
+nav.navigation ul li.elementNav a{
+    text-align: center;
+    text-decoration: none;
+    background-color: #5D7963;
+    color: #F6F6F6;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace ;
+    font-size: 150%;
+}
+
+
+nav.navigation ul li.elementNav:hover a{
+    color: #F6F6F6;
+    background-color: #839487;
+    transition: 0.3s all;
+}
+nav.navigation{
+    background-color: #5D7963;
+    padding: 10px;
+}
+
+body{
+    background-color: #F6F6F6;
+    color:black;
+    height: auto;
+}
+
+footer{
+    color: black;
+    background-color: #D9D9D9;
+}
+
+div#textePage div{
+    display: inline-block;
+    width: 45%;
+}
+
+div#textePage div.partieGauche{
+    vertical-align: top;
+    background-color: #5D7963;
+    border-radius: 5%;
+}
+
+div#textePage div.partieDroite{
+    vertical-align: top;
+    background-color: #5D7963;
+    border-radius: 5%;
+}
+
+div#textePage div h3{
+    margin: 10px;
+}
+
+div#textePage div p{
+    margin: 10px;
+}
+
+
+table.tableau td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+table.tableau{
+    border-collapse: collapse;
+}
+
+table.tableau tr td {
+    text-align:center;
+    vertical-align:middle;
+    font-family: 'Courier New', Courier, monospace ;
+    background-color: #5D7963;
+    font-weight: 450;
+    color: #F6F6F6;
+    text-transform: uppercase;
+    font-size: larger;
+    text-decoration: none;
+}
+table.tableau tr.colonne2 td.c2l2:hover{
+    color: black;
+    background-color: #839487;
+    transition: 0.3s all;
+    text-decoration: none;
+}
+table.tableau tr.colonne2 td.c3l2:hover{
+    color: black;
+    background-color: #839487;
+    transition: 0.3s all;
+}
+
+table.tableau tr.colonne2 td.c4l2:hover{
+    color: black;
+    background-color: #839487;
+    transition: 0.3s all;
+}
+
+table.tableau tr.colonne3 td.c2l3:hover{
+    color: black;
+    background-color: #839487;
+    transition: 0.3s all;
+}
+
+table.tableau tr.colonne3 td.c3l3:hover{
+    color: black;
+    background-color: #839487;
+    transition: 0.3s all;
+}
+
+table.tableau tr.colonne3 td.c4l3:hover{
+    color: black;
+    background-color: #839487;
+    transition: 0.3s all;
+}
+
+table.tableau tr td:hover a{
+    color: black;
+    background-color: #839487;
+    transition: 0.3s all;
+}
+
+
+
+
+
+
+
+
+
+/* 
+body{
+    background-color: #839487;
+    color:white;
+}
+p.rouge{
+    color: #FFFFFF;
+    background-color: #5D7963;
+
+}
+body{
+    background-color: #F6F6F6;
+}
+h2.titre{
+    font-size: 30px;
+} */
+

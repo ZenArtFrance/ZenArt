@@ -122,6 +122,27 @@ table.tableau tr td:hover a{
     transition: 0.3s all;
 }
 
+div.a{
+    padding: 90px;
+    margin: 10px 50px 20px;
+    text-align:center;
+    font-size: xx-large;
+    margin-bottom: 0%;
+}
+div.b{
+    padding: 90px;
+    margin: 10px 50px 20px;
+    padding: 2px;
+}
+div.centrer {
+    padding: 90px;
+    margin: 10px 50px 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
 
 
 
